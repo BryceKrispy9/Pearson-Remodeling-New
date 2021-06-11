@@ -2,14 +2,14 @@
 .hero-section {
     background-image: url(../images/backgrounds/hero-image.jpg);
     padding: 100px;
-    height: 400px;
+    height: 500px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
     align-items: flex-end;
-    justify-content: flex-end;
+    justify-content: center;
     flex-direction: column;
 }
 
