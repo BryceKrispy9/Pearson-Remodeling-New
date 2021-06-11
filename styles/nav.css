@@ -1,6 +1,6 @@
 /* Common nav */
 .navigation-wrapper {
-    height: 190px;
+    height: 125px;
     background-color: rgb(111, 112, 124);
     color: seashell;
     display: flex;
@@ -44,7 +44,7 @@
 .navigation-wrapper > .center-column {
     display: grid;
     grid-template-columns: 1fr;
-    grid-gap: 42px;
+    grid-gap: 1px;
     width: 500px;
 }
 
@@ -54,7 +54,7 @@
 }
 
 .navigation-wrapper > .center-column > .banner-image img {
-    width: 325px;
+    width: 400px;
     height: 100%;
 }
 
@@ -62,6 +62,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding-bottom: 50px;
 }
 
 .links-wrapper > .nav-link {
