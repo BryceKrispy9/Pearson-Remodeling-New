@@ -11,7 +11,7 @@
 
 .hero-section .top-heading {
     padding: 1px 20px;
-    background-color: rgb(255, 255, 255);
+    background-color: seashell;
     color: black;
     width: 290px;
     border-radius: 1px;
@@ -21,7 +21,7 @@
 
 .hero-section > .middle-heading {
     padding: 1px 20px;
-    background-color: rgb(255, 255, 255);
+    background-color: seashell;
     color: black;
     width: 290px;
     display: flex;
@@ -30,7 +30,7 @@
 
 .hero-section > .bottom-heading {
     padding: 1px 20px;
-    background-color: rgb(255, 255, 255);
+    background-color: seashell;
     color: black;
     width: 290px;
     border-radius: 1px;
