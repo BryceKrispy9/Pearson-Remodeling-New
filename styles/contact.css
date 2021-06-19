@@ -1,0 +1,56 @@
+.page-container {
+    width: 100vw;
+    height: 500px;
+    color: black;
+    background-color: seashell;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.page-header {
+    display: flex;
+    justify-content: center;
+}
+
+.page-header img {
+    width: 270px;
+    height: 100%;
+}
+
+.page-header-title {
+    display: flex;
+    justify-content: center;
+}
+
+.page-header-title h1 {
+    background-color: rgb(151, 152, 156);
+    width: 200px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.page-body {
+    display: flex;
+    justify-content: center;
+    font-size: large;
+    font-weight: 500;
+    margin-bottom: 50px;
+}
+
+.page-contact {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row;
+    margin-bottom: 100px;
+}
+
+.ben {
+    text-align: center;
+}
+
+.nick {
+    text-align: center;
+}
