@@ -72,7 +72,7 @@
     }
 
     .skewed-header > .skewed-header-wrapper > .skewed-header-content > .heading-wrapper {
-        width: 225px;
+        width: 225px !important;
     }
 
     .page-container > .page-body {
@@ -85,5 +85,9 @@
 
     .navbar > .dropdown {
         margin-top: 10px;
+    }
+
+    .page-container > .img-wrapper-photos > .photo img {
+        width: 100vw;
     }
 }
