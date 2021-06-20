@@ -71,6 +71,11 @@
         order: 2;
     }
 
+    .square > .img-wrapper img {
+        justify-content: center;
+        
+    }
+
     .skewed-header > .skewed-header-wrapper > .skewed-header-content {
         flex-direction: column;
     }
@@ -92,7 +97,7 @@
     }
 
     .page-container > .img-wrapper-photos > .photo img {
-        width: 479px;
+        width: 430px;
     }
 
     .page-container > .page-body {
