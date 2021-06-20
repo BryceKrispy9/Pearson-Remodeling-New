@@ -90,4 +90,18 @@
     .page-container > .img-wrapper-photos > .photo img {
         width: 100vw;
     }
+
+    .page-container > .page-body {
+        margin: 42px;
+    }
+
+    .page-container > .page-contact {
+        flex-direction: column;
+    }
+
+    .spacer60 {
+        background-color: seashell;
+        height: 100px;
+        width: 100%;
+    }
 }
