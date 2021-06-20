@@ -16,7 +16,7 @@
 .dropdown {
     width: 200px;
     height: 200px;
-    position: fixed;
+    position: absolute;
     top: 50%;
     left: 50%;
     margin-top: -50px;
@@ -65,4 +65,22 @@
 
 .dropdown:hover .dropdown-content {
     display: block;
+}
+
+/* Page container styles */
+.page-container {
+    background-color: seashell;
+    display: flex;
+    justify-content: center;
+}
+
+.img-wrapper-photos {
+    border: solid 2px black;
+    align-items: center;
+    flex-direction: column;
+}
+
+.img-wrapper-photos img {
+    width: 1000px;
+    margin-bottom: 5px;
 }
