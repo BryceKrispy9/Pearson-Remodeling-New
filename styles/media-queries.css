@@ -74,4 +74,12 @@
     .page-container > .page-body {
         text-align: center;
     }
+
+    .skewed-header > .header-bg {
+        background-size: 550px;
+    }
+
+    .navbar > .dropdown {
+        margin-top: 10px;
+    }
 }
