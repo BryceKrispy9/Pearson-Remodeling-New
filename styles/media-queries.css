@@ -71,6 +71,10 @@
         flex-direction: column;
     }
 
+    .skewed-header > .skewed-header-wrapper > .skewed-header-content > .heading-wrapper {
+        width: 225px;
+    }
+
     .page-container > .page-body {
         text-align: center;
     }
