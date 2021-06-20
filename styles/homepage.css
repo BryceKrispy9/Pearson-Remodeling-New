@@ -8,7 +8,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
-    align-items: flex-end;
+    align-items: flex-start;
     justify-content: center;
     flex-direction: column;
 }
