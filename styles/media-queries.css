@@ -72,8 +72,7 @@
     }
 
     .square > .img-wrapper img {
-        justify-content: center;
-        
+        object-fit: none !important;
     }
 
     .skewed-header > .skewed-header-wrapper > .skewed-header-content {
