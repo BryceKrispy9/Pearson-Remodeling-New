@@ -1,4 +1,4 @@
-@media (max-width: 615px) {
+@media (max-width: 48em) {
     .navigation-wrapper {
         flex-direction: column;
         height: 100%;
@@ -80,11 +80,11 @@
     }
 
     .skewed-header > .header-bg {
-        background-size: 550px;
+        background-size: 550px !important;
     }
 
     .navbar > .dropdown {
-        margin-top: 10px;
+        margin-top: 40px;
     }
 
     .page-container > .img-wrapper-photos > .photo img {
