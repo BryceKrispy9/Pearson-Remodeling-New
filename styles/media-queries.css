@@ -42,6 +42,10 @@
         padding: 50px 10px;
     }
 
+    .welcome-text h1 {
+        text-align: center;
+    }
+
     .features-section {
         height: 100%;
     }
